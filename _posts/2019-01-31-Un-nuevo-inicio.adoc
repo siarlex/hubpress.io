@@ -5,4 +5,4 @@
 :hp-tags: Blog
 :hp-alt-title: Un nuevo inicio
 
-image::https://cdn.thenewstack.io/media/2017/07/698ce29c-gophercon_logo_main.png[GitHub mascot]
+image::https://cdn.thenewstack.io/media/2017/07/698ce29c-gophercon_logo_main.png[Golang]
