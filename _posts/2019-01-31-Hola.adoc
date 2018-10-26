@@ -1,0 +1,6 @@
+= Hola!
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: https://cdn.thenewstack.io/media/2017/07/698ce29c-gophercon_logo_main.png
+:published_at: 2019-01-31
+
+image::https://cdn.thenewstack.io/media/2017/07/698ce29c-gophercon_logo_main.png[GitHub mascot]
