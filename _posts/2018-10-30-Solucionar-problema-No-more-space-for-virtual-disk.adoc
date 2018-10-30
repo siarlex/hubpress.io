@@ -1,0 +1,6 @@
+= Solucionar problema "No more space for virtual disk"
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+:hp-image: https://i0.wp.com/www.mes-vms.fr/wp-content/uploads/2015/08/vmware_vsphere.png
+// :published_at: 2019-01-31
+:hp-tags: vmware, virtualización,
+// :hp-alt-title: My English Title
