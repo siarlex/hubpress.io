@@ -4,3 +4,9 @@
 // :published_at: 2019-01-31
 :hp-tags: vmware, virtualización,
 // :hp-alt-title: My English Title
+
+La raíz de este problema está relacionado con los SNAPSHOTS que se han realizado. 
+
+NOTE: Es importante tomar en cuenta que los SNAPSHOT estan destinados a ser utilizados por un periodo corto de tiempo, ya que si estos son dejados por un periodo largo iran consumiendo el espacio disponible hasta agotarlo y ver reflejado este error.
+
+La solución para este problema la conseguimos de una forma sencilla:
